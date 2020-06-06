@@ -5,6 +5,7 @@ Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'Shougo/deoplete-lsp'
 Plug 'ervandew/supertab'
 Plug 'Chiel92/vim-autoformat'
+Plug 'cohama/lexima.vim'
 
 call plug#end()
 
